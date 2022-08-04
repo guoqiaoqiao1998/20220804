@@ -6,7 +6,6 @@ int main(int argc, const char *argv[])
 	printf("GUOqiaoqiao\n");
 	printf("hello develop\n");
 
-
 	return 0;
 }
 
